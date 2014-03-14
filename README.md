@@ -13,7 +13,7 @@ I have been thinkin of implementing key press detection of arrow keys, so one co
 
 Installation
 ------------
-- Clone into your saiku-ui/js/saiku/plugins/ folder.
+- Clone into a folder about here: `saiku-ui/js/saiku/plugins/Fullscreen/`
 - Create this line inside the index.html
 
         <!-- Saiku plugins -->
