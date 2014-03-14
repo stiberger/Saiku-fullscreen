@@ -18,7 +18,7 @@ Installation
 
         <!-- Saiku plugins -->
         <script type="text/javascript" src="js/saiku/plugins/Fullscreen/plugin.js" defer></script>
-- Some css is needed as well. This is where customization is needed. I haven't figured out any one size fits all rules yet.
+- Some css is needed as well. This is where customization is needed. I haven't figured out any *one size fits all* rules yet.
 
         /*For some weird reason you can not have all css queries
         separated by commas, and have just one of these...*/
@@ -49,3 +49,8 @@ Installation
             margin: 0 auto;
             font-size: 200%;
         }
+        
+Usage
+-----
+Sorry about the poor quality animation...
+![](http://capia.no/screencasts/fullscreen.gif)
